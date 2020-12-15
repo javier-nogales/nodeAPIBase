@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/javier-nogales/nodeAPIBase/issues"
   },
-  "homepage": "https://github.com/javier-nogales/nodeAPIBase#readme"
+  "homepage": "https://github.com/javier-nogales/nodeAPIBase#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
 }
