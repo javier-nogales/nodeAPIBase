@@ -1,0 +1,20 @@
+{
+  "name": "nodeapibase",
+  "version": "0.0.1",
+  "description": "NodeJS API base with Express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javier-nogales/nodeAPIBase.git"
+  },
+  "author": "Javier Nogales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javier-nogales/nodeAPIBase/issues"
+  },
+  "homepage": "https://github.com/javier-nogales/nodeAPIBase#readme"
+}
